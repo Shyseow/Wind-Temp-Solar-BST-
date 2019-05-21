@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1532251891 source:c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\date.cpp
+	"Date.h"
+	<iostream>
+	<cstdlib>
+
+1532251891 c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\date.h
+	<iostream>
+	<cstdlib>
+
+1532251891 source:c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<map>
+	"Date.h"
+	"Time.h"
+	"Weather.h"
+	"Vector.h"
+	"Menu.h"
+	"TotalW.h"
+	"BST.h"
+
+1532251891 c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\time.h
+	<iostream>
+
+1532251891 c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\weather.h
+	"Time.h"
+	"Date.h"
+	<iostream>
+
+1532251891 c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\vector.h
+	<iostream>
+	<vector>
+
+1532273015 c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\menu.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<map>
+	<list>
+	<vector>
+	"Vector.h"
+	"Time.h"
+	"Weather.h"
+	"Date.h"
+	"BST.h"
+	"TotalW.h"
+
+1532278534 c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\bst.h
+	<iostream>
+
+1532251891 c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\totalw.h
+	<iostream>
+
+1532275597 source:c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\menu.cpp
+	"Menu.h"
+
+1532251892 source:c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\time.cpp
+	"Time.h"
+	<iostream>
+	<cstdlib>
+
+1532251891 source:c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\totalw.cpp
+	"TotalW.h"
+	<iostream>
+	<cstdlib>
+
+1532251892 source:c:\users\shyseow\desktop\ict283_assignment02_seowhuiyin_33255186\assignment2\weather.cpp
+	"Weather.h"
+	"Time.h"
+	"Date.h"
+	<map>
+
